@@ -139,3 +139,32 @@ h2 {
     position: absolute;
     text-decoration: none;
 }
+
+#showroom{
+    font-size: 15px;
+    /*font-size: 100%;*/
+    font-family: Roboto, sans-serif;
+
+    letter-spacing: 2px;
+
+    width: 450px;
+    height: 200px;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+
+    background-color: rgba(9, 14, 11, 0.322);
+    color: white;
+
+
+    bottom: 200px;
+    right: 500px;
+
+    position: absolute;
+    text-decoration: none;
+}
+
+.footer{
+    
+}
