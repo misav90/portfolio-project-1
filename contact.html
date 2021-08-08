@@ -23,12 +23,13 @@
                     <a href="index.html">Home</a>
                 </li>
                 <li>
-                    <a href="tour.html" class="contact">Contact</a>
+                    <li>
+                        <a href="contact.html" class="active">Contact</a>
+                    <li>
+                    <a href="tour.html" class="tour">Tour</a>
                 <li>
-                <li>
-                    <a href="contact.html" class="contact">Tour</a>
-                <li>
-                    <a href="about.html" class="about" class="active">About us</a>
+               
+                    <a href="about.html" class="about" >About us</a>
                 </li>
                 </li>
             </ul>
@@ -44,14 +45,19 @@
         <div id="about-text-box">
             <form action="#" method="post"></form>
             <h2>Please fill in your details and we will contact you for a free one-hour consultation session</h2>
-            
-            <input type="text" name="First Name" placeholder="First Name"required>
+            <label for="firstname">First Name</label>
+            <input type="text" name="First Name" placeholder="First Name" class="form"required>
             <br>
-            <input type="text" name="Last Name" placeholder="Last Name"required>
+            <label for="lastname">Last Name</label>
+            <input type="text" name="Last Name" placeholder="Last Name" class="form"required>
             <br>
-            <input type="email"name="Email" placeholder="Email adress" required>
+            <label for="email">Email Adress</label>
+            <input type="email"name="Email" placeholder="Email adress" class="form"required>
             <br>
-            <input type="text" name="Telephone number" placeholder="telephone number" required>
+            <label for="phone">Telepone-number</label>
+            <input type="text" name="Telephone number" placeholder="telephone number"class="form" required>
+            <br>
+            <input type="submit">
           
                 
             </h3>

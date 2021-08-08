@@ -196,11 +196,26 @@ h2 {
     height: 700px;
     clear: both;
     border: radius 2px;
+
 }
+.form{
+    float:right;
+}
+
+#tour-images{
+     
+        clear: both;
+        line-height: 1;
+        column-count: 2;
+        column-gap: 1;
+        text-align:center;
+}
+
+
 .footer{
     position: fixed;
     left: 0;
-    bottom: 10;
+    bottom: 2;
     width: 100%;
     background-color:white;
     color: slategray;
