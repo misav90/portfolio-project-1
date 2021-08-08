@@ -12,7 +12,7 @@ body {
     float: left;
     font-family: cormorant, sans-serif;
     font-size: 60px;
-    margin-left: 0px;
+    margin-left: 20px;
     margin-top: 0px;
     color: rgba(11, 240, 99, 0.808);
     padding: 0;
@@ -167,15 +167,15 @@ h2 {
     text-decoration: none;
 }
 
-#form {
+#form  {
     font-size: 15px;
-    /*font-size: 100%;*/
+    
     font-family: Roboto, sans-serif;
 
     letter-spacing: 2px;
 
     width: 450px;
-    height: 200px;
+    height: 300px;
 
     padding-top: 10px;
     padding-left: 10px;
@@ -183,13 +183,14 @@ h2 {
 
     background-color: rgba(9, 14, 11, 0.322);
     color: white;
+    float:left;
 
 
     bottom: 200px;
     right: 100px;
 
     position: absolute;
-    text-decoration: none;
+  
 
 }
 
@@ -202,14 +203,13 @@ h2 {
 
 }
 
-.form {
-    float: right;
-}
+
+
 
 #tour-images {
 
     clear: both;
-    line-height: 1;
+    line-height: 2;
     column-count: 3;
     column-gap: 1;
     text-align: center;
@@ -242,47 +242,46 @@ h2 {
 
 @media screen and (max-width: 1200px) {
    
-    #about-tex-box {
-        width: 200px;
-        height: 400px;
-        position: absolute;
-        top:0px;
-        left:0px;
 
-    }
 
     #about-image {
-        width: 80%;
+        
         height: 1200px;
         padding: 0%;
         margin: 0 auto;
-    }
+        
+       
 
-    #showroom {
-        font-size: 15px;
-        /*font-size: 100%;*/
-        font-family: Roboto, sans-serif;
+    }
+    #showroom{
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    top:140px;
+    margin:0 auto;
+    padding:0;
+    left:0;
+    right:0;
     
-        letter-spacing: 2px;
-    
-        width: 450px;
-        height: 200px;
-    
-        padding-top: 10px;
-        padding-left: 10px;
-        padding-bottom: 40px;
-    
-        background-color: rgba(9, 14, 11, 0.322);
-        color: white;
+   
     clear:both;
-    
-        bottom: 200px;
-        right: 100px;
-    
-        position: absolute;
-        text-decoration: none;
-    } 
+    text-align:center; }
+
+    #about-text-box{
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    top:400px;
+    left:0;
+    right:0;
+    margin:0 auto;
+    padding:0;
+   
+    text-align:center;
+    }
 }
+    
+
 
 
     .footer {
@@ -295,4 +294,21 @@ h2 {
         
     }
 
+    @media screen and (max-width: 800px) {
+        #navigation {
+            clear:left;
+            float:left;
 
+        }
+
+        #log{
+            float:left;
+            Clear:left;
+        }
+
+   
+        #text-box{
+            clear:left;
+            float:left;
+        }
+    }
