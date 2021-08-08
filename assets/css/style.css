@@ -61,6 +61,8 @@ h2 {
     height: 1100px;
     clear: both;
     border: radius 2px;
+    padding-left: 20px;
+    padding-right:20px;
 
 }
 
@@ -140,7 +142,7 @@ h2 {
     text-decoration: none;
 }
 
-#showroom{
+#showroom {
     font-size: 15px;
     /*font-size: 100%;*/
     font-family: Roboto, sans-serif;
@@ -165,7 +167,7 @@ h2 {
     text-decoration: none;
 }
 
-#form{
+#form {
     font-size: 15px;
     /*font-size: 100%;*/
     font-family: Roboto, sans-serif;
@@ -188,8 +190,9 @@ h2 {
 
     position: absolute;
     text-decoration: none;
-    
+
 }
+
 #contact-image {
     background: url("/assets/images/coffeebeans.jpg") no-repeat center center;
     width: 100%;
@@ -198,26 +201,98 @@ h2 {
     border: radius 2px;
 
 }
-.form{
-    float:right;
+
+.form {
+    float: right;
 }
 
-#tour-images{
-     
-        clear: both;
-        line-height: 1;
-        column-count: 2;
-        column-gap: 1;
-        text-align:center;
-}
+#tour-images {
 
-
-.footer{
-    position: fixed;
-    left: 0;
-    bottom: 2;
-    width: 100%;
-    background-color:white;
-    color: slategray;
+    clear: both;
+    line-height: 1;
+    column-count: 3;
+    column-gap: 1;
     text-align: center;
 }
+
+#tour-textbox {
+    font-size: 30px;
+    /*font-size: 100%;*/
+    font-family: Roboto, sans-serif;
+
+    letter-spacing: 2px;
+
+    width: 800px;
+    height: 400px;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+
+    background-color: rgba(9, 14, 11, 0.322);
+    color: white;
+
+
+    bottom: 100px;
+    left: 600x;
+
+    position: absolute;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 1200px) {
+   
+    #about-tex-box {
+        width: 200px;
+        height: 400px;
+        position: absolute;
+        top:0px;
+        left:0px;
+
+    }
+
+    #about-image {
+        width: 80%;
+        height: 1200px;
+        padding: 0%;
+        margin: 0 auto;
+    }
+
+    #showroom {
+        font-size: 15px;
+        /*font-size: 100%;*/
+        font-family: Roboto, sans-serif;
+    
+        letter-spacing: 2px;
+    
+        width: 450px;
+        height: 200px;
+    
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-bottom: 40px;
+    
+        background-color: rgba(9, 14, 11, 0.322);
+        color: white;
+    clear:both;
+    
+        bottom: 200px;
+        right: 100px;
+    
+        position: absolute;
+        text-decoration: none;
+    } 
+}
+
+
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: white;
+        color: slategray;
+        
+    }
+
+
