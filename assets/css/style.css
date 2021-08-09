@@ -287,7 +287,7 @@ footer {
 
     }
 
-    #log {
+    #logo {
         float: left;
         Clear: left;
     }
@@ -297,4 +297,13 @@ footer {
         clear: both;
         float: left;
     }
+    footer > ul {
+     letter-spacing: 4px;
+    font-family: cormorant, sans-serif;
+    color: slategrey;
+    margin-right: 30px;
+    list-style-type: none;
+    float: right;
+    text-decoration: none;}
+    
 }
