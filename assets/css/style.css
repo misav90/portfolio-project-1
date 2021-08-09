@@ -5,7 +5,11 @@
 body {
     font-family: cormorant;
     width: 100%;
-    color: blue;
+    left:0;
+    right:0;
+    margin-right:0px;
+    margin-left:0px;
+    
 
 }
 
@@ -24,7 +28,8 @@ body {
     letter-spacing: 4px;
     font-family: cormorant, sans-serif;
     color: slategrey;
-    margin-right: 30px;
+    margin-right: 20px;
+    
     list-style-type: none;
     float: right;
     text-decoration: none;
@@ -194,6 +199,10 @@ h2 {
     border-radius: 2px;
 }
 
+.forminput placeholder {
+    color:white
+}
+
 
 
 
@@ -288,6 +297,8 @@ footer {
 /*START media query for SMARTPHONE*/
 @media screen and (max-width: 400px) {
 
+
+
   
 
     #logo {
@@ -303,6 +314,8 @@ footer {
         float: left;
         text-decoration: none;
         font-size:20px;
+       
+        
     }
 
 
@@ -339,13 +352,39 @@ footer {
         background: url("../images/gardeningold.jpg") no-repeat center center;
         width: 320px;
         height: 700px;
-        padding-left: 30px;
-        padding-right: 70px;
+        padding-left: 40px;
+        padding-right: 80px;
         
         margin-left:0;
         margin-right:0;
     
     }
+    #about-image {
+        background: url("../images/cutting\ olives.jpg") no-repeat center center;
+        width: 320px;
+        height: 1000px;
+        
+        margin-left:0px;
+        left:0px;
+        right:0px;
+    
+    }
+    #showroom {
+        width: 100%;
+        height: 250px;
+        position: absolute;
+        top: 180px;
+        margin: 0 auto;
+        padding: 0;
+        left: 0;
+        right: 0;
+
+
+
+        clear: both;
+        text-align: center;
+    }
+    
 }
 
 /* End of mediaquery SMARTPHONE*/
