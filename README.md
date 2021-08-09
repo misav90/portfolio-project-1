@@ -1,4 +1,4 @@
-#P lantify
+# Plantify
 ## this is a website for a gardening company who helps clients with to establish permaculture gardens. The aim for the website is to showcase their their services and to contact them for help. The site is designed to be minimalistic and intreguing for the viewer.
 
 ## responiveness
