@@ -297,6 +297,7 @@ footer {
         clear: both;
         float: left;
     }
+
     footer > ul {
      letter-spacing: 4px;
     font-family: cormorant, sans-serif;
@@ -308,10 +309,6 @@ footer {
     
 }
 
-.footer{
-    text-decoration: none;
-}
-
 .social > li{
     display:inline;
     text-align:center;
@@ -321,4 +318,8 @@ footer {
     padding: 20px;
     float:right;
 
+}
+
+.footer{
+    text-decoration: none;
 }
