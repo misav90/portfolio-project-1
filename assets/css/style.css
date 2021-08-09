@@ -58,7 +58,7 @@ h2 {
 }
 
 #main-image {
-    background: url("/assets/images/gardeningwomanwhitehair.jpg") no-repeat center center;
+    background: url("../images/gardeningwomanwhitehair.jpg") no-repeat center center;
     width: 100%;
     height: 1100px;
     clear: both;
@@ -75,7 +75,7 @@ h2 {
 
 #text-box {
     font-size: 80px;
-    font-size: 130%;
+    
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
