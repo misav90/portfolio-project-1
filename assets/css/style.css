@@ -285,8 +285,8 @@ footer {
 
 }
 
-/*media query for smartphones*/
-@media screen and (max-width: 320px) {
+/*START media query for SMARTPHONE*/
+@media screen and (max-width: 400px) {
 
   
 
@@ -295,7 +295,7 @@ footer {
         text-align: center;
     }
 
-    nav li {
+    nav ul li{
         letter-spacing: 1px;
         font-family: cormorant, sans-serif;
         color: slategrey;
@@ -310,22 +310,45 @@ footer {
         
         float: left;
         font-size:10px;
-        text-align:center;
-        top: 300px;
+        
+        bottom: 0px;
         left:0px;
     }
 
-    footer>ul {
-        letter-spacing: 4px;
+    footer li {
+        letter-spacing: 2px;
         font-family: cormorant, sans-serif;
         color: slategrey;
         margin-right: 30px;
         list-style-type: none;
-        float: right;
+        font-size:3px;
+        
         text-decoration: none;
     }
 
+    footer{
+        height:200px;
+        width:100%;
+        float:right;
+    }
+
+    footer p{
+        font-size:20px;
+    }
+    #main-image {
+        background: url("../images/gardeningold.jpg") no-repeat center center;
+        width: 320px;
+        height: 700px;
+        padding-left: 30px;
+        padding-right: 70px;
+        
+        margin-left:0;
+        margin-right:0;
+    
+    }
 }
+
+/* End of mediaquery SMARTPHONE*/
 
 .social > li {
     display: inline;
@@ -341,3 +364,4 @@ footer {
 .footer {
     text-decoration: none;
 }
+
