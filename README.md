@@ -21,7 +21,7 @@
 ![Contactpage](../assets/images/contact page.jpg)
 
 ### Tour page
-####In the tour page, the visitor can take a look at previous projects and pictures of our work
+#### In the tour page, the visitor can take a look at previous projects and pictures of our work
 ![Tourpage](../assets/images/tour page.jpg)
 
 
