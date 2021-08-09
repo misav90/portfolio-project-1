@@ -87,7 +87,7 @@ h2 {
 
 
 
-    bottom: 70px;
+    bottom: 80px;
     right: 100px;
 
     position: absolute;
@@ -213,36 +213,13 @@ h2 {
 #tour-images {
 
     clear: both;
-    line-height: 2;
+    line-height: 2px;
     column-count: 3;
-    column-gap: 1;
+    column-gap: 1%;
     text-align: center;
 }
 
-#tour-textbox {
-    font-size: 30px;
 
-    font-family: Roboto, sans-serif;
-
-    letter-spacing: 2px;
-
-    width: 800px;
-    height: 400px;
-
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-bottom: 40px;
-
-    background-color: rgba(9, 14, 11, 0.322);
-    color: white;
-
-
-    bottom: 100px;
-    left: 600x;
-
-    position: absolute;
-    text-decoration: none;
-}
 
 /*media query for tablets*/
 @media screen and (max-width: 1200px) {
@@ -317,7 +294,7 @@ h2 {
 
 
     #text-box {
-        clear: left;
+        clear: both;
         float: left;
     }
 }
