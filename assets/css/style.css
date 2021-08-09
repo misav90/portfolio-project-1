@@ -58,7 +58,7 @@ h2 {
 }
 
 #main-image {
-    background: url("../images/gardeningwomanwhitehair.jpg") no-repeat center center;
+    background: url("../images/gardeningold.jpg") no-repeat center center;
     width: 100%;
     height: 1100px;
     clear: both;
@@ -111,7 +111,7 @@ h2 {
 /*about-page CSS below*/
 
 #about-image {
-    background: url("/assets/images/cutting\ olives.jpg") no-repeat center center;
+    background: url("../images/cutting\ olives.jpg") no-repeat center center;
     width: 100%;
     height: 700px;
     clear: both;
@@ -174,7 +174,7 @@ h2 {
     
     font-family: Roboto, sans-serif;
 
-    letter-spacing: 2px;
+    letter-spacing: 4px;
 
     width: 450px;
     height: 300px;
@@ -195,9 +195,12 @@ h2 {
   
 
 }
+.form{
+    float:right;
+}
 
 #contact-image {
-    background: url("/assets/images/coffeebeans.jpg") no-repeat center center;
+    background: url("../images/coffeebeans.jpg") no-repeat center center;
     width: 100%;
     height: 700px;
     clear: both;
