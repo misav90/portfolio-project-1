@@ -6,14 +6,14 @@
 >>>>>>> 3bf2dadb8e0ea9680080c13d7a9d7809e113a8e7
 
 ## responiveness
-![amiresponsive](../assets/images/am i responsive.jpg)
+![amiresponsive](../assets/images/amiresponsive.jpg)
 
 
 ## features
 
 ### main-page
 #### The mainpage consists of a big inspiring image with a quote and a link (learn more) which takes the visitor to the about page
-![Mainpage](../assets/images/main page.jpg)
+![Mainpage](../assets/images/mainpage.jpg)
 
 <<<<<<< HEAD
 ###Navbar
@@ -23,7 +23,7 @@
 
 ###Contact page###
 ####the contact form enables the clients to enter their first name, last name, and email-address in order to get contacted for a free 1 hour consulting call about their garden.#### 
-![Contactpage](../assets/images/contact page.jpg)
+![Contactpage](../assets/images/contactpage.jpg)
 
 ###Tour page###
 ####In the tour page, the visitor can take a look at previous projects and pictures of our work to get a sense of what the projects consists of and what services are offered.####
@@ -35,12 +35,12 @@
 
 ### Contact page
 #### the contact form enables the clients to enter their first name, last name, email-address and telephone number in order to get contacted for a free 1 hour consulting call about their garden. 
-![Contactpage](../assets/images/contact page.jpg)
+![Contactpage](../assets/images/contactpage.jpg)
 
 ### Tour page
 #### In the tour page, the visitor can take a look at previous projects and pictures of our work
 >>>>>>> 3bf2dadb8e0ea9680080c13d7a9d7809e113a8e7
-![Tourpage](../assets/images/tour page.jpg)
+![Tourpage](../assets/images/tourpage.jpg)
 
 
 ###footer
