@@ -8,6 +8,9 @@
 ### The website is supposed to be responsive and have a good user interface. 
 ![amiresponsive2](https://user-images.githubusercontent.com/73398555/128935610-77d5e093-bba4-4df5-b217-1d0f0346efd4.JPG)
 
+## Accessability
+### the Webpage has been given a score of 92 on accessability and 96 in overall performance. 
+![lighthouse](https://user-images.githubusercontent.com/73398555/128937141-aa014caa-f176-40a2-a3f4-6baeda981688.JPG)
 
 
 ## features
