@@ -25,7 +25,7 @@ body {
 
 }
 
-#navigation li {
+#navigation {
     letter-spacing: 4px;
     font-family: cormorant, sans-serif;
     color: slategrey;
@@ -34,6 +34,20 @@ body {
     list-style-type: none;
     float: right;
     text-decoration: none;
+    top: 0px;
+    position: absolute;
+    right: 0px;
+}
+
+#navigation li {
+    letter-spacing: 4px;
+    font-family: cormorant, sans-serif;
+    color: slategrey;
+    margin-right: 20px;
+    display: inline;
+    list-style-type: none;
+    float: right;
+    text-decoration: none; 
 
 }
 
@@ -68,6 +82,7 @@ h2 {
     clear: both;
     padding-left: 20px;
     padding-right: 20px;
+    background-position: bottom;
 
 }
 
@@ -233,17 +248,18 @@ h2 {
 
 .social>li {
     display: inline;
-    text-align: center;
+    
     color: slategray;
     text-decoration: none;
     font-size: 40px;
     padding: 20px;
-    float: right;
+    
 
 }
 
 .footer {
     text-decoration: none;
+    text-align: center;
 }
 
 
@@ -314,22 +330,8 @@ footer {
 /*START media query for SMARTPHONE*/
 @media screen and (max-width: 700px) {
 
-ul{
-    float:left;
-}
-    #navigation li {
 
-        text-align: center;
-        letter-spacing: 4px;
-        font-family: cormorant, sans-serif;
-        color: slategrey;
-        margin-right: 20px;
-        display: inline;
-        list-style-type: none;
-        text-decoration: none;
-        margin-left:0px;
-        display:inline-block;
-    }
+    
 
     #text-box h2 a {
 
@@ -379,7 +381,7 @@ ul{
 
     #main-image {
         background: url("../images/gardeningold.jpg") no-repeat center center;
-        width: 320px;
+        width: 100%;
         height: 700px;
         padding-left: 40px;
         padding-right: 80px;
@@ -387,6 +389,31 @@ ul{
         margin-left: 0;
         margin-right: 0;
 
+    }
+
+    #navigation {
+    width: 70%;
+    
+    
+    position: static;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    }
+
+    #navigation li {
+
+        
+        letter-spacing: 4px;
+        font-family: cormorant, sans-serif;
+        color: slategrey;
+        margin-right: 20px;
+        
+        list-style-type: none;
+        text-decoration: none;
+        margin-left:0px;
+        display:inline-block;
+        
     }
 
     #about-image {
