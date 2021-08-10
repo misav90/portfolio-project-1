@@ -41,20 +41,23 @@
 
 
 
-### footer
+## footer
 
-#### The footer consists of the adress of the company office/showroom aswell as three Social media links (Twitter, Facebook and Instagram)
+### The footer consists of the adress of the company office/showroom aswell as three Social media links (Twitter, Facebook and Instagram)
 
 ![footer](https://user-images.githubusercontent.com/73398555/128934917-e70e3138-5e7e-4d5a-9418-a74d0b3aec54.JPG)
 
-### Credits:
-#### Signup form is from Love Running
-#### All images are taken from https://www.pexels.com
-#### All logotypes are from https://www.fontawsome.com
+### Testing
+### Testing has been done with google inspector and with Iphone 6s running chrome and Safari. The testing has not been without errors. 
 
-### Known bugs:
-#### The signup form does not give feedback if the user does not enter an email adress.
-#### The responsiveness is not working as it should on mobile devices. 
+## Credits:
+### Signup form is from Love Running.
+### All images are taken from https://www.pexels.com
+### All logotypes are from https://www.fontawsome.com
+
+## Unfixed bugs:
+### The signup form does not validate if the user does not enter an email adress.
+### The responsiveness is not working as it should on mobile devices. 
 
 
 
