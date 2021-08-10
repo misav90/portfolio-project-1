@@ -16,7 +16,7 @@
 ![Mainpage](../assets/images/main page.jpg)
 
 <<<<<<< HEAD
-###Navbar###
+###Navbar
 ####The navbar is located in the top right corner. The color is slate gray and the different listitems underlines when hovered over. The current page is underlined when selected. This gives the user an easyway to navigate through the page####
 ![NavBar](../assets/images/navbar.jpg)
 
@@ -43,8 +43,8 @@
 ![Tourpage](../assets/images/tour page.jpg)
 
 
-###footer###
-####The footer consists of the adress of the company office/showroom aswell as two Social media links. One for twitter and one for Facebook####
+###footer
+####The footer consists of the adress of the company office/showroom aswell as two Social media links. One for twitter and one for Facebook
 
 
 

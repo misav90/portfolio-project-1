@@ -14,13 +14,14 @@ body {
 }
 
 #logo {
-    float: left;
+    
     font-family: cormorant, sans-serif;
     font-size: 60px;
     margin-left: 20px;
     margin-top: 0px;
     color: rgba(11, 240, 99, 0.808);
     padding: 0;
+    
 
 }
 
@@ -29,7 +30,7 @@ body {
     font-family: cormorant, sans-serif;
     color: slategrey;
     margin-right: 20px;
-    
+    display:inline;
     list-style-type: none;
     float: right;
     text-decoration: none;
@@ -229,6 +230,21 @@ h2 {
     column-gap: 1%;
     text-align: center;
 }
+.social > li {
+    display: inline;
+    text-align: center;
+    color: slategray;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 20px;
+    float: right;
+
+}
+
+.footer {
+    text-decoration: none;
+}
+
 
 
 
@@ -295,31 +311,15 @@ footer {
 }
 
 /*START media query for SMARTPHONE*/
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 700px) {
+    
 
-
-
-  
-
-    #logo {
+#navigation li{
 
         text-align: center;
-    }
+}
 
-    nav ul li{
-        letter-spacing: 1px;
-        font-family: cormorant, sans-serif;
-        color: slategrey;
-        list-style-type: none;
-        float: left;
-        text-decoration: none;
-        font-size:20px;
-       
-        
-    }
-
-
-    #text-box {
+    #text-box h2 a {
         
         float: left;
         font-size:10px;
@@ -385,22 +385,7 @@ footer {
         text-align: center;
     }
     
-}
+}/* End of mediaquery SMARTPHONE*/
 
-/* End of mediaquery SMARTPHONE*/
 
-.social > li {
-    display: inline;
-    text-align: center;
-    color: slategray;
-    text-decoration: none;
-    font-size: 40px;
-    padding: 20px;
-    float: right;
-
-}
-
-.footer {
-    text-decoration: none;
-}
 
