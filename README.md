@@ -2,9 +2,9 @@
 
 ## this is a website for a gardening company who helps clients with to establish permaculture gardens. The aim for the website is to showcase their their services and to contact them for help. The site is designed to be minimalistic and intreguing for the viewer.
 
-## this is a website for a gardening company who helps clients with to establish permaculture gardens. The aim for the website is to showcase their their services and to contact them for help. The site is designed to be minimalistic and intreguing for the viewer.
 
-## responiveness
+
+## responsiveness
 ### The website is supposed to be responsive and have a good user interface. 
 ![amiresponsive2](https://user-images.githubusercontent.com/73398555/128935610-77d5e093-bba4-4df5-b217-1d0f0346efd4.JPG)
 
