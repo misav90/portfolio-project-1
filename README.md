@@ -1,6 +1,6 @@
 # Plantify
 
-##this is a website for a gardening company who helps clients with to establish permaculture gardens. The aim for the website is to showcase their their services and to contact them for help. The site is designed to be minimalistic and intreguing for the viewer.
+## this is a website for a gardening company who helps clients with to establish permaculture gardens. The aim for the website is to showcase their their services and to contact them for help. The site is designed to be minimalistic and intreguing for the viewer.
 
 ## this is a website for a gardening company who helps clients with to establish permaculture gardens. The aim for the website is to showcase their their services and to contact them for help. The site is designed to be minimalistic and intreguing for the viewer.
 
@@ -14,16 +14,16 @@
 ![Mainpage](../assets/images/mainpage.jpg)
 
 
-###Navbar
-####The navbar is located in the top right corner. The color is slate gray and the different listitems underlines when hovered over. The current page is underlined when selected. This gives the user an easyway to navigate through the page
+### Navbar
+#### The navbar is located in the top right corner. The color is slate gray and the different listitems underlines when hovered over. The current page is underlined when selected. This gives the user an easyway to navigate through the page
 ![NavBar](../assets/images/navbar.jpg)
 
 
-###Contact page
+### Contact page
 ####the contact form enables the clients to enter their first name, last name, and email-address in order to get contacted for a free 1 hour consulting call about their garden.
 ![Contactpage](../assets/images/contactpage.jpg)
 
-###Tour page
+### Tour page
 ####In the tour page, the visitor can take a look at previous projects and pictures of our work to get a sense of what the projects consists of and what services are offered.
 
 ### Navbar
@@ -41,7 +41,7 @@
 ![Tourpage](../assets/images/tourpage.jpg)
 
 
-###footer
+### footer
 ####The footer consists of the adress of the company office/showroom aswell as two Social media links. One for twitter and one for Facebook
 
 
