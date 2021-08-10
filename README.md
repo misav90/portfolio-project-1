@@ -12,13 +12,13 @@
 
 ## features
 
-### main-page
+### Main page
 #### The mainpage consists of a big inspiring image with a quote and a link (learn more) which takes the visitor to the about page
 ![main page](https://user-images.githubusercontent.com/73398555/128934379-e0bc74f3-6310-4a8d-aec4-a6e22b857ba2.JPG)
 
 
-### Navbar
-#### The navbar is located in the top right corner. The color is slate gray and the different listitems underlines when hovered over. The current page is underlined when selected. This gives the user an easyway to navigate through the page
+### Navgation bar
+#### The navigation bar is located in the top right corner. The color is slate gray and the different listitems underlines when hovered over. The current page is underlined when selected. This gives the user an easyway to navigate through the page
 ![navbar](https://user-images.githubusercontent.com/73398555/128934331-37712c00-ccd9-41ba-ad3e-43e6e532e33c.JPG)
 
 
@@ -28,7 +28,7 @@
 
 
 ### About us 
-####In the About us page, The visitor can see opening hours for our showroom and also get to know a bit more of what the company does and how it started
+#### In the About us page, The visitor can see opening hours for our showroom and also get to know a bit more of what the company does and how it started
 
 ![about us page](https://user-images.githubusercontent.com/73398555/128934634-39e83b0f-0825-413b-a87d-4ceb7b7d350c.JPG)
 
