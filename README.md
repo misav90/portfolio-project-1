@@ -5,12 +5,12 @@
 
 
 ## responsiveness
-### The website is supposed to be responsive and have a good user interface. 
+### The website is responsive and has a good and user-friendly interface. This will allow the user to browse with ease and easily find the way back. 
 ![amiresponsive3](https://user-images.githubusercontent.com/73398555/128965802-124c5313-cb1f-4175-bb15-8fc7327321b7.JPG)
 
 
-## Accessability
-### the Webpage has been given a score of 92 on accessability when testing with lighthouse
+## Accessibility
+### the Webpage has been given a score of 92 on accessability when testing with lighthouse.
 ![lighthouse2](https://user-images.githubusercontent.com/73398555/128965781-5d0ff378-e8a8-4f58-bf53-a82b7911431d.JPG)
 
 
@@ -18,13 +18,13 @@
 ## features
 
 ### Main page
-#### The mainpage consists of a big inspiring image with a quote and a link (learn more) which takes the visitor to the about page
+#### The mainpage consists of a big inspiring image with a quote and a link (learn more) which takes the visitor to the about page.
 ![landing](https://user-images.githubusercontent.com/73398555/128965764-eeac1feb-c14c-4977-8208-f3c54f136891.JPG)
 
 
 
 ### Navgation bar
-#### The navigation bar is located in the top right corner. The color is slate gray and the different listitems underlines when hovered over. The current page is underlined when selected. This gives the user an easyway to navigate through the page
+#### The navigation bar is located in the top right corner. The color is slate gray and the different navigation links underlines when hovered over. The current page is underlined when selected. This gives the user an easyway to navigate through the page
 ![navbar](https://user-images.githubusercontent.com/73398555/128965836-6983d1c3-b9ff-4b6f-a303-8b91d621170e.JPG)
 
 
@@ -36,7 +36,7 @@
 
 
 ### About us 
-#### In the About us page, The visitor can see opening hours for our showroom and also get to know a bit more of what the company does and how it started
+#### In the About us page, The visitor can see opening hours for our showroom and also get to know a bit more of what the company does and how it started.
 
 ![about](https://user-images.githubusercontent.com/73398555/128965898-f163d5b4-b40c-4387-998e-6024dac7930f.JPG)
 
@@ -44,7 +44,7 @@
 
 
 ### Tour page
-#### In the tour page, the visitor can take a look at previous projects and pictures of our work
+#### In the tour page, the visitor can take a look at previous projects and pictures of our current work as well as employees and partners to the company.
 
 ![tour](https://user-images.githubusercontent.com/73398555/128965919-f799c552-3910-4d99-b435-1dccd73cee77.JPG)
 
@@ -53,7 +53,7 @@
 
 ## footer
 
-### The footer consists of the adress of the company office/showroom aswell as three Social media links (Twitter, Facebook and Instagram)
+### The footer consists of the adress of the company office/showroom as well as three Social media links (Twitter, Facebook and Instagram). These open in a new tab. 
 
 ![footer2](https://user-images.githubusercontent.com/73398555/128965939-750c0f5c-c0ac-4b7c-a854-fdb199d11aed.JPG)
 
@@ -66,7 +66,8 @@
 ## Credits:
 
 ### content:
-#### Signup form is taken from Love Running.
+#### The contact form was taken from Love Running.
+
 
 ### media:
 #### All images are taken from https://www.pexels.com
