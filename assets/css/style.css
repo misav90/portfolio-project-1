@@ -10,6 +10,18 @@ body {
 
 }
 
+.fa-facebook-square{
+    color:slategray;
+}
+
+.fa-twitter{
+    color:slategray;
+}
+
+.fa-instagram{
+    color:slategray;
+}
+
 #logo {
 
     font-family: cormorant, sans-serif;
