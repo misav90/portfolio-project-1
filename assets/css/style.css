@@ -4,10 +4,7 @@
 
 body {
     font-family: cormorant;
-    width: 100%;
-    left: 0;
-    right: 0;
-    margin-right: 0px;
+    margin:0 auto;
 
 
 
@@ -82,7 +79,7 @@ h2 {
     clear: both;
     padding-left: 20px;
     padding-right: 20px;
-    background-position: bottom;
+    background-position: center;
 
 }
 
@@ -333,10 +330,16 @@ footer {
 @media screen and (max-width: 700px) {
 
 
-
+#text-box h2 {
+    text-align: center;
+    float: right;
+    font-size: 15px;
+    right: 10px;
+}
 
     #text-box h2 a {
 
+      
         float: left;
         font-size: 10px;
 
@@ -358,7 +361,7 @@ footer {
         padding-left: 10px;
 
         bottom: 150px;
-        left: 0px;
+        
     }
 
     footer li {
@@ -388,12 +391,18 @@ footer {
         height: 650px;
         padding-left: 40px;
         padding-right: 80px;
-
+        position:fixed;
         margin-left: 0;
         margin-right: 0;
+        
+        }
 
-    }
-
+        #main-section{
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            overflow:auto;
+        }
     #navigation {
         width: 70%;
 
@@ -425,9 +434,8 @@ footer {
         height: 650px;
         padding-left: 40px;
         padding-right: 80px;
+        overflow:auto;
 
-        margin-left: 0;
-        margin-right: 0;
 
     }
 
@@ -438,7 +446,7 @@ footer {
         top: 204px;
         margin: 0 auto;
         padding: 0;
-        left: 0;
+        
         right: 0;
 
 
@@ -452,7 +460,7 @@ footer {
         height: 250px;
         position: absolute;
         top: 504px;
-        left: 0;
+        
         right: 0;
         margin: 0 auto;
         padding: 0;
@@ -514,9 +522,86 @@ footer {
         max-width: 320px;
         max-height: fit-content;
     }
+    .social>li {
+        display: inline;
+    
+        color: slategray;
+        text-decoration: none;
+        font-size: 40px;
+        padding: 20px;
+    }
 
 
+}
+@media screen and (max-width: 360px) {
+    #text-box h2 {
+        visibility: hidden;
+    }
+    footer li {
+        letter-spacing: 2px;
+        font-family: cormorant, sans-serif;
+        color: slategrey;
+        margin-right: 30px;
+        list-style-type: none;
+        font-size: 3px;
 
+        text-decoration: none;
+    }
+
+    footer {
+        height: 40px;
+        width: 100%;
+        float: right;
+    }
+
+    footer p {
+        font-size: 20px;
+    }
+#navigation {
+    width: 100%;
+
+
+    position: inherit;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    display:inline;
+}
+
+#navigation li {
+letter-spacing: 2px;
+    font-family: cormorant, sans-serif;
+    color: slategrey;
+    margin-right: 20px;
+
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: 0px;
+    text-align:center;
+    font-size:12px;
+
+}
+.social>li {
+    display: inline;
+
+    color: slategray;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 20px;
+}
+#about-text-box {
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    top: 480px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    padding: 0;
+    font-size:10px;
+
+    text-align: center;
+}
 }
 
 /* End of mediaquery SMARTPHONE*/
